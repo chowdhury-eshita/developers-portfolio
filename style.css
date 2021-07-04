@@ -11,7 +11,7 @@ p{
 .h-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
@@ -31,7 +31,7 @@ section{
     font-weight: 700;
 
 }
-.top-banner{
+.first-section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
